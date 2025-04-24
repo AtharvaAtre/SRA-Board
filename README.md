@@ -237,7 +237,8 @@ In general, every development board has the following basic features:
 ## Contributors
 
 - [Atharva Atre](https://github.com/AtharvaAtre): *Designer*
-
+- [Dhairya Shah](https://github.com/dhairyashah1): *Mentor*
+- [Mahesh Tupe](https://github.com/Asc91): *Mentor*
 <!-- ACKNOWLEDGEMENTS AND REFERENCES -->
 ## Acknowledgements and Resources
 
